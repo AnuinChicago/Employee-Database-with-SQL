@@ -32,7 +32,7 @@ Use the information you have to create a table schema for each of the six CSV fi
 
 
 Import each CSV file into the corresponding SQL table. Note be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
-![erd](EmployeeSQL/employees_db(schemata).sql)
+
 
 
 ## Data Analysis
